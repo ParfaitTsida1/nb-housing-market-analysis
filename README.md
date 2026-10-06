@@ -1,4 +1,4 @@
-# Rents, Vacancy and Rental-Market Tightness in Southern New Brunswick
+# Rents, Vacancy and Rental-Market Tightness in Southern New Brunswick (using Claude AI)
 
 Analysis of how the rental market has evolved in **Moncton and Saint John** since 2020.
 
